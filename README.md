@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kerimprogramator
-- 👀 I’m interested in programming and playing games.
+- 👀 I’m interested in programming and playing games
 - 🌱 I’m currently learning Python
 
 <!---
